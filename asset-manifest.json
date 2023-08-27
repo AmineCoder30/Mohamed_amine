@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e91e0ce4.css",
+    "main.js": "/static/js/main.85d62d17.js",
+    "static/media/avvocati.png": "/static/media/avvocati.e279532dbb43ceee4ead.png",
+    "static/media/Tasta_Tea.png": "/static/media/Tasta_Tea.abe5bb08c0ba247d0430.png",
+    "static/media/mason.png": "/static/media/mason.1088a395b4722ce375c4.png",
+    "static/media/preview.png": "/static/media/preview.dd477721d7afb6b8ce1c.png",
+    "static/media/mexant.png": "/static/media/mexant.94f609435be84482d234.png",
+    "static/media/onix.png": "/static/media/onix.a96265ab32174ff22d00.png",
+    "static/media/pup-web.png": "/static/media/pup-web.8dcc9ed062924c2ffb04.png",
+    "static/media/tazawas.png": "/static/media/tazawas.a36b7294ff49c3c98d7a.png",
+    "static/media/pomodoro.png": "/static/media/pomodoro.ae6f5d3c3e3ee1a2655f.png",
+    "static/media/image.jpg": "/static/media/image.fb29afbf25ed1ea9d889.jpg",
+    "static/media/ui.png": "/static/media/ui.b45148b8cba001d5e139.png",
+    "static/media/dev.png": "/static/media/dev.29570bf8743181c71d63.png",
+    "static/media/res.png": "/static/media/res.99ec544fc71c5fc8e530.png",
+    "static/media/jquery.svg": "/static/media/jquery.0ec796e6c998532b6853e7ec63ccc8b3.svg",
+    "static/media/sass.svg": "/static/media/sass.a17505e3004c556710e1efb5c1042295.svg",
+    "static/media/github.svg": "/static/media/github.7dba9158ec36dd50f8a6171ed6ec8a26.svg",
+    "static/media/javascript.svg": "/static/media/javascript.544d9420641a1732e4e50d5378432793.svg",
+    "static/media/c.svg": "/static/media/c.ea53b80bc576e8149a0cfa503dda670c.svg",
+    "static/media/react.svg": "/static/media/react.2d80508d388f8a99ffd2129955e481b2.svg",
+    "static/media/python.svg": "/static/media/python.58d5a0a7b305a106917669f9abcc4f3d.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.a02c02e0a6078af9b5aadc3eba986270.svg",
+    "static/media/git.svg": "/static/media/git.aeeb13ab71f0fa41e8bb99688f96cfdd.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.99ff40c99633dbe9199a405ec4ff4f65.svg",
+    "index.html": "/index.html",
+    "static/media/css.svg": "/static/media/css.64fa1d1c4801d931c3717be71f6c020e.svg",
+    "static/media/html5.svg": "/static/media/html5.8ae3d4adcd70a1028a6377697d9f33b0.svg",
+    "main.e91e0ce4.css.map": "/static/css/main.e91e0ce4.css.map",
+    "main.85d62d17.js.map": "/static/js/main.85d62d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91e0ce4.css",
+    "static/js/main.85d62d17.js"
+  ]
+}
